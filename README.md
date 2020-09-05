@@ -74,9 +74,8 @@
 
 ### 💹 Github Stats
 
-<img align="left" alt="adityacprtm's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityacprtm&layout=compact&hide_border=true&hide=html" />
-
-<img align="left" alt="adityacprtm's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityacprtm&layout=compact&hide_border=true&hide=html "adityacprtm's Github Stats")
+![](https://github-readme-stats.codestackr.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "adityacprtm's Github Stats")
 
 [website]: https://adityacprtm.com
 [twitter]: https://twitter.com/adityacprtm
