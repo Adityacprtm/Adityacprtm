@@ -8,13 +8,9 @@
 - 📫 How to reach me **adityacprtm@gmail.com**
 - ⚡ Fun fact **pevita lovers** 💘
 
-### 🎧 Spotify Playing
-
-[![Spotify](https://spotify-now-playing.adityacprtm.vercel.app/api/spotify)](https://open.spotify.com/user/pratamaditya7)
-
 ### 🤙 Connect with me:
 
-[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter-follow]
+[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
@@ -79,8 +75,13 @@
 
 [website]: https://adityacprtm.com
 [twitter]: https://twitter.com/adityacprtm
-[twitter-follow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadityacprtm&screen_name=adityacprtm
 [youtube]: https://youtube.com/channel/UCFaUPqu8K0TASb1dHnXn3IA
 [instagram]: https://instagram.com/adityacprtm
 [linkedin]: https://linkedin.com/in/adityacprtm
 [facebook]: https://www.facebook.com/adityacprtm
+
+---
+
+### 🎧 Spotify Playing
+
+[![Spotify](https://spotify-now-playing.adityacprtm.vercel.app/api/spotify)](https://open.spotify.com/user/pratamaditya7)
