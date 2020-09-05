@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - [Adityacprtm][website] 👋
+## Hi there, I'm Aditya - [Adityacprtm][website] 👋
 
 [![Website](https://img.shields.io/website?label=Adityacprtm.com&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.com)](https://adityacprtm.com)
 
