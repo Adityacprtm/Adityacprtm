@@ -53,6 +53,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityacprtm&layout=compact&hide_border=true&hide=html "adityacprtm's Github Stats")
 ![](https://github-readme-stats.codestackr.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "adityacprtm's Github Stats")
 
+![](https://wakatime.com/share/@48c4255c-bc1d-46be-b612-450a11309171/500c0e8d-3cc1-46b3-9b95-22918b6c29ee.png "adityacprtm's Github Stats")
+
 [website]: https://adityacprtm.com
 [twitter]: https://twitter.com/adityacprtm
 [youtube]: https://youtube.com/channel/UCFaUPqu8K0TASb1dHnXn3IA
