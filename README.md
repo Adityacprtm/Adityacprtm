@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - [Adityacprtm][website] 👋
+# Hi there, I'm Aditya - [Adityacprtm][website] 👋
 
 [![Website](https://img.shields.io/website?label=Adityacprtm.com&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.com)](https://adityacprtm.com)
 
@@ -8,19 +8,19 @@
 - 📫 How to reach me **adityacprtm@gmail.com**
 - ⚡ Fun fact **pevita lovers** 💘
 
-### 🤙 Connect with me:
+## 😎 Connect with me:
 
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
 
-### 🎧 Spotify Playing
+## 🎧 Spotify Playing
 
 [![Spotify](https://spotify-now-playing.adityacprtm.vercel.app/api/spotify)](https://open.spotify.com/user/pratamaditya7)
 
-### 👨‍💻 Languages and Tools:
+## 👨‍💻 Languages and Tools:
 
 |                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -48,14 +48,12 @@
 
 ---
 
-### 🚀 Stats
+## 🚀 Github Stats
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Expand Me</summary>
 
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "Adityacprtm's github stats")
-
-</details>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
@@ -130,16 +128,14 @@ HTML                     3 repos             ███░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://github.com/Adityacprtm/Adityacprtm/blob/master/charts/bar_graph.png) 
+</details>
 
 
 <!--END_SECTION:waka-->
 
 [website]: https://adityacprtm.com
 [twitter]: https://twitter.com/adityacprtm
-[youtube]: https://youtube.com/channel/UCFaUPqu8K0TASb1dHnXn3IA
+[steam]: https://steamcommunity.com/id/adityacprtm
 [instagram]: https://instagram.com/adityacprtm
 [linkedin]: https://linkedin.com/in/adityacprtm
 [facebook]: https://www.facebook.com/adityacprtm
