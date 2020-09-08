@@ -55,6 +55,9 @@
 
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [website]: https://adityacprtm.com
 [twitter]: https://twitter.com/adityacprtm
 [youtube]: https://youtube.com/channel/UCFaUPqu8K0TASb1dHnXn3IA
