@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=Adityacprtm.com&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.com)](https://adityacprtm.com)
 
-- 🌱 I’m currently learning **everything** 🤣
-- 👨‍💻 All of my projects are available at [adityacprtm.com](https://adityacprtm.com)
-- 📝 I regulary write articles on [blog.adityacprtm.com](https://blog.adityacprtm.com)
-- 📫 How to reach me **adityacprtm@gmail.com**
-- ⚡ Fun fact **pevita lovers** 💘
+-   🌱 I’m currently learning **everything** 🤣
+-   👨‍💻 All of my projects are available at [adityacprtm.com](https://adityacprtm.com)
+-   📝 I regulary write articles on [blog.adityacprtm.com](https://blog.adityacprtm.com)
+-   📫 How to reach me **adityacprtm@gmail.com**
+-   ⚡ Fun fact **pevita lovers** 💘
 
 ## 😎 Connect with me:
 
@@ -38,10 +38,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Mengatur Access Control List (ACL) di Linux](https://blog.adityacprtm.com/mengatur-access-control-list-acl-di-linux/)
-- [Membuat OpenVPN Server Sendiri dalam Hitungan Detik](https://blog.adityacprtm.com/membuat-openvpn-server-sendiri-dalam-hitungan-detik/)
-- [Konfigurasi Awal Untuk Mengamankan Server Baru](https://blog.adityacprtm.com/konfigurasi-awal-untuk-mengamankan-server-baru/)
-- [Cara Membangun Website Serverless dengan Form reCAPTCHA di AWS](https://blog.adityacprtm.com/cara-membangun-website-serverless-dengan-form-recaptcha-di-aws/)
+-   [Mengatur Access Control List (ACL) di Linux](https://blog.adityacprtm.com/mengatur-access-control-list-acl-di-linux/)
+-   [Membuat OpenVPN Server Sendiri dalam Hitungan Detik](https://blog.adityacprtm.com/membuat-openvpn-server-sendiri-dalam-hitungan-detik/)
+-   [Konfigurasi Awal Untuk Mengamankan Server Baru](https://blog.adityacprtm.com/konfigurasi-awal-untuk-mengamankan-server-baru/)
+-   [Cara Membangun Website Serverless dengan Form reCAPTCHA di AWS](https://blog.adityacprtm.com/cara-membangun-website-serverless-dengan-form-recaptcha-di-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.adityacprtm.com)
@@ -56,80 +56,75 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-962585%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.0%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 51 Contributions in the Year 2020
- > 
-> 📦 312.2 kB Used in Github's Storage 
- > 
+>
+> 📦 312.2 kB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories
- > 
-> 🔑 2 Private Repositories 
+>
+> 📜 33 Public Repositories
+>
+> 🔑 2 Private Repositories
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
-🌆 Daytime    133 commits    █████████░░░░░░░░░░░░░░░░   38.33% 
-🌃 Evening    124 commits    █████████░░░░░░░░░░░░░░░░   35.73% 
-🌙 Night      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
-
-```
-📅 **I'm Most Productive on Wednesday** 
+**I'm an Early 🐤**
 
 ```text
-Monday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Tuesday      44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Wednesday    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
-Thursday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-Friday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
-Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.16% 
-Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24%
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.06%
+🌆 Daytime    141 commits    ██████████░░░░░░░░░░░░░░░   39.72%
+🌃 Evening    124 commits    ████████░░░░░░░░░░░░░░░░░   34.93%
+🌙 Night      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-⌚︎ Time Zone: Asia/Makassar
+Monday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39%
+Tuesday      52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.65%
+Wednesday    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.59%
+Thursday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.31%
+Friday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
+Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.75%
+Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99%
 
-💬 Programming Languages: 
-Markdown                 3 hrs 12 mins       ██████████████████████░░░   89.69% 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+💬 Programming Languages:
+Markdown                 3 hrs 12 mins       ██████████████████████░░░   89.69%
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.81%
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  3 hrs 34 mins       █████████████████████████   100.0%
 
-💻 Operating System: 
-Linux                    3 hrs 29 mins       ████████████████████████░   97.78% 
+💻 Operating System:
+Linux                    3 hrs 29 mins       ████████████████████████░   97.78%
 Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.0% 
-Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92%
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
 
 ```
 
-
 </details>
-
 
 <!--END_SECTION:waka-->
 
