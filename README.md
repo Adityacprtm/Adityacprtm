@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=Adityacprtm.com&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.com)](https://adityacprtm.com)
 
 -   🌱 I’m currently learning **everything** 🤣
--   👨‍💻 All of my projects are available at [adityacprtm.com](https://adityacprtm.com)
--   📝 I regulary write articles on [blog.adityacprtm.com](https://blog.adityacprtm.com)
--   📫 How to reach me **adityacprtm@gmail.com**
+-   👨‍💻 All of my projects are available at **[adityacprtm.com](https://adityacprtm.com)**
+-   📝 I regulary write articles on **[blog.adityacprtm.com](https://blog.adityacprtm.com)**
+-   📫 How to reach me **pratamaditya7@gmail.com**
 -   ⚡ Fun fact **pevita lovers** 💘
 
 ## 😎 Connect with me:
@@ -32,8 +32,6 @@
 | Databases             | ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Other                 | ![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
----
-
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -46,8 +44,6 @@
 
 ➡️ [more blog posts...](https://blog.adityacprtm.com)
 
----
-
 ## 🚀 Github Stats
 
 <details>
@@ -56,74 +52,73 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 67 Contributions in the Year 2020
- > 
-> 📦 313.6 kB Used in Github's Storage 
- > 
+>
+> 📦 313.6 kB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
+>
 > 📜 34 Public Repositories
- > 
-> 🔑 2 Private Repositories 
+>
+> 🔑 2 Private Repositories
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-🌆 Daytime    145 commits    ██████████░░░░░░░░░░░░░░░   40.17% 
-🌃 Evening    124 commits    ████████░░░░░░░░░░░░░░░░░   34.35% 
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79%
+🌆 Daytime    145 commits    ██████████░░░░░░░░░░░░░░░   40.17%
+🌃 Evening    124 commits    ████████░░░░░░░░░░░░░░░░░   34.35%
 🌙 Night      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-Tuesday      56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
-Wednesday    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
-Thursday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-Friday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
-Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+Monday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
+Tuesday      56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51%
+Wednesday    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.84%
+Thursday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01%
+Friday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.2%
+Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45%
 Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.8%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Markdown                 4 hrs 7 mins        ██████████████░░░░░░░░░░░   58.41% 
-Go                       1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.78% 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
+💬 Programming Languages:
+Markdown                 4 hrs 7 mins        ██████████████░░░░░░░░░░░   58.41%
+Go                       1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.78%
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.5%
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47%
 HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  7 hrs 3 mins        █████████████████████████   100.0%
 
-💻 Operating System: 
-Linux                    6 hrs 58 mins       ████████████████████████░   98.87% 
+💻 Operating System:
+Linux                    6 hrs 58 mins       ████████████████████████░   98.87%
 Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93%
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81%
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
-
-
 
 <!--END_SECTION:waka-->
 
