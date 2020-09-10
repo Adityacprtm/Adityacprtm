@@ -1,0 +1,16 @@
+# Here Are All The Sources
+
+- [Simple Icons Repo](https://github.com/simple-icons/simple-icons)
+- [Simple Icons Site](https://simpleicons.org/)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Shields Repo](https://github.com/badges/shields)
+- [Shields Site](https://shields.io/)
+- [Badges 4 Readme Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [GitHub Activity Readme](https://github.com/marketplace/actions/github-activity-readme)
+- [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
+- [Spotify Now Playing 1](https://github.com/natemoo-re/natemoo-re)
+- [Spotify Now Playing 2](https://github.com/novatorem/novatorem)
+- [GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [Wakatime Stats](https://github.com/anmol098/waka-readme-stats)
+- [Profile Examples](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
