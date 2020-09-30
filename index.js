@@ -1,0 +1,99 @@
+#!/usr/bin/env node
+
+"use strict";
+
+const boxen = require("boxen");
+const chalk = require("chalk");
+const inquirer = require("inquirer");
+const clear = require("clear");
+const open = require("open");
+
+clear();
+
+var prompt = inquirer.createPromptModule();
+
+const data = {
+   name: chalk.bold.blue("Aditya Chamim Pratama"),
+   nickname: chalk.bold("Adityacprtm"),
+
+   web: chalk.green("https://www.adityacprtm.com"),
+   blog: chalk.green("https://blog.adityacprtm.com"),
+   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("adityacprtm"),
+   instagram:
+      chalk.gray("https://instagram.com/") + chalk.magenta("adityacprtm"),
+   github: chalk.gray("https://github.com/") + chalk.white("Adityacprtm"),
+   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("adityacprtm"),
+   npx: chalk.red("npx") + " " + chalk.white("adityacprtm"),
+
+   labelWeb: chalk.white.bold("Web:"),
+   labelBlog: chalk.white.bold("Blog:"),
+   labelTwitter: chalk.white.bold("Twitter:"),
+   labelInstagram: chalk.white.bold("Instagram:"),
+   labelGitHub: chalk.white.bold("GitHub:"),
+   labelLinkedIn: chalk.white.bold("  LinkedIn:"),
+   labelCard: chalk.white.bold("Card:"),
+};
+
+const box = boxen(
+   [
+      `${data.name} | ${data.nickname} 🚀`,
+      ``,
+      `${data.labelWeb}  ${data.web}`,
+      `${data.labelBlog}  ${data.blog}`,
+      `${data.labelTwitter}  ${data.twitter}`,
+      `${data.labelInstagram}  ${data.instagram}`,
+      `${data.labelGitHub}  ${data.github}`,
+      `${data.labelLinkedIn}  ${data.linkedin}`,
+      ``,
+      `${data.npx}`,
+      ``,
+      `${chalk.italic.bold("I am an enthusiastic newbie.")}`,
+      `${chalk.italic("There is much to learn and much more to build.")}`,
+      `${chalk.italic("So far and for this, I am very grateful.")}`,
+   ].join("\n"),
+   {
+      borderColor: "blue",
+      borderStyle: "double",
+      padding: 1,
+      margin: 1,
+      float: "center",
+      align: "center",
+   }
+);
+
+const questions = [
+   {
+      type: "list",
+      name: "action",
+      message: "What's next?",
+      choices: [
+         {
+            name: `Send me an ${chalk.green.bold("email")}?`,
+            value: () => {
+               open("mailto:pratamaditya7@gmail.com");
+               console.log("\nDone, see you soon.\n");
+            },
+         },
+         {
+            name: "Just quit.",
+            value: () => {
+               console.log("Ok, bye.\n");
+            },
+         },
+      ],
+   },
+];
+
+console.log(box);
+
+const tip = [
+   `${chalk.white.bold(
+      "Tip"
+   )}: if the terminal supports, try ${chalk.cyanBright.bold(
+      "cmd/ctrl + click"
+   )} the link above 😉`,
+   "",
+].join("\n");
+console.log(tip);
+
+prompt(questions).then((answer) => answer.action());
