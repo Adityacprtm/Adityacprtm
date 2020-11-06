@@ -53,13 +53,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 92 Contributions in the Year 2020
  > 
-> 📦 387.3 kB Used in Github's Storage 
+> 📦 387.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,10 +79,10 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
-Tuesday      71 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
+Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+Tuesday      70 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
 Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-Thursday     68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
+Thursday     70 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
 Friday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
 Saturday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
 Sunday       67 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22%
@@ -94,13 +94,13 @@ Sunday       67 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blade Template           0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
