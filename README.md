@@ -53,7 +53,7 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -94,9 +94,9 @@ Sunday       73 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.85% 
-Python                   59 mins             ██████░░░░░░░░░░░░░░░░░░░   26.91% 
-Go                       48 mins             █████░░░░░░░░░░░░░░░░░░░░   22.08% 
+JavaScript               1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.88% 
+Python                   59 mins             ██████░░░░░░░░░░░░░░░░░░░   26.89% 
+Go                       48 mins             █████░░░░░░░░░░░░░░░░░░░░   22.06% 
 Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.16% 
 Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
 
