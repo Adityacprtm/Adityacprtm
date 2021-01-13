@@ -34,6 +34,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Membangun Serverless Website dengan reCAPTCHA di AWS](https://dev.to/adityacprtm/cara-membangun-serverless-website-dengan-recaptcha-di-aws-339k)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts on dev.to ...](https://dev.to/adityacprtm)
