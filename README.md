@@ -34,16 +34,8 @@
 | Other                 | ![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## 📕 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
-
--   [Mengatur Access Control List (ACL) di Linux](https://blog.adityacprtm.com/mengatur-access-control-list-acl-di-linux/)
--   [Membuat OpenVPN Server Sendiri dalam Hitungan Detik](https://blog.adityacprtm.com/membuat-openvpn-server-sendiri-dalam-hitungan-detik/)
--   [Konfigurasi Awal Untuk Mengamankan Server Baru](https://blog.adityacprtm.com/konfigurasi-awal-untuk-mengamankan-server-baru/)
--   [Cara Membangun Website Serverless dengan Form reCAPTCHA di AWS](https://blog.adityacprtm.com/cara-membangun-website-serverless-dengan-form-recaptcha-di-aws/)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blog.adityacprtm.com)
 
 ## 🚀 Github Stats
 
@@ -53,75 +45,6 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 13 Contributions in the Year 2021
- > 
-> 📦 394.1 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-🌆 Daytime    138 commits    █████████░░░░░░░░░░░░░░░░   37.6% 
-🌃 Evening    150 commits    ██████████░░░░░░░░░░░░░░░   40.87% 
-🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.81%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
-Tuesday      77 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98% 
-Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
-Thursday     59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
-Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-Sunday       66 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     9 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.77% 
-Groovy                   4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   23.17% 
-Docker                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.36% 
-JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
-Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
-
-🔥 Editors: 
-VS Code                  20 hrs 24 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    20 hrs 23 mins      █████████████████████████   99.9% 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               16 repos            ██████████░░░░░░░░░░░░░░░   42.11% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
