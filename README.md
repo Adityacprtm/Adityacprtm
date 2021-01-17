@@ -34,6 +34,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Konfigurasi Awal Untuk Mengamankan Server Baru](https://dev.to/adityacprtm/konfigurasi-awal-untuk-mengamankan-server-baru-24mk)
 - [Cara Membangun Serverless Website dengan reCAPTCHA di AWS](https://dev.to/adityacprtm/cara-membangun-serverless-website-dengan-recaptcha-di-aws-339k)
 <!-- BLOG-POST-LIST:END -->
 
