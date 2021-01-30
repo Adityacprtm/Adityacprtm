@@ -34,6 +34,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Membuat Newsletter Subscribers dengan Laravel](https://dev.to/adityacprtm/cara-membuat-newsletter-subscribers-dengan-laravel-22ho)
 - [Cara Mudah Mengatur Access Control List (ACL) di Linux](https://dev.to/adityacprtm/cara-mudah-mengatur-access-control-list-acl-di-linux-5af2)
 - [Membuat OpenVPN Server dalam Hitungan Detik](https://dev.to/adityacprtm/membuat-openvpn-server-dalam-hitungan-detik-2c7h)
 - [Konfigurasi Awal Untuk Mengamankan Server Baru](https://dev.to/adityacprtm/konfigurasi-awal-untuk-mengamankan-server-baru-24mk)
