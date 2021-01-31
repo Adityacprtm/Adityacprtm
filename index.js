@@ -17,7 +17,7 @@ const data = {
   nickname: chalk.bold("Adityacprtm"),
 
   web: chalk.green("https://www.adityacprtm.com"),
-  blog: chalk.green("https://blog.adityacprtm.com"),
+  blog: chalk.green("https://dev.to/adityacprtm"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("adityacprtm"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("~adityacprtm"),
   github: chalk.gray("https://github.com/") + chalk.white("Adityacprtm"),
@@ -30,7 +30,7 @@ const data = {
   labelNpm: chalk.white.bold("  npm:"),
   labelGitHub: chalk.white.bold("GitHub:"),
   labelLinkedIn: chalk.white.bold("  LinkedIn:"),
-  labelCard: chalk.white.bold("Card:"),
+  labelCard: chalk.white.bold("Card:")
 };
 
 const box = boxen(
@@ -48,7 +48,7 @@ const box = boxen(
     ``,
     `${chalk.italic.bold("I am an enthusiastic newbie.")}`,
     `${chalk.italic("There is much to learn and much more to build.")}`,
-    `${chalk.italic("So far and for this, I am very grateful.")}`,
+    `${chalk.italic("So far and for this, I am very grateful.")}`
   ].join("\n"),
   {
     borderColor: "blue",
@@ -56,7 +56,7 @@ const box = boxen(
     padding: 1,
     margin: 1,
     float: "center",
-    align: "center",
+    align: "center"
   }
 );
 
@@ -71,16 +71,16 @@ const questions = [
         value: () => {
           open("mailto:pratamaditya7@gmail.com");
           console.log("\nDone, see you soon.\n");
-        },
+        }
       },
       {
         name: "Just quit.",
         value: () => {
           console.log("Ok, bye.\n");
-        },
-      },
-    ],
-  },
+        }
+      }
+    ]
+  }
 ];
 
 console.log(box);
@@ -91,7 +91,7 @@ const tip = [
   )}: if the terminal supports, try ${chalk.cyanBright.bold(
     "cmd/ctrl + click"
   )} the link above 😉`,
-  "",
+  ""
 ].join("\n");
 console.log(tip);
 
