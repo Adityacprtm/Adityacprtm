@@ -32,12 +32,6 @@
 | Databases             | ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Other                 | ![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts on dev.to ...](https://dev.to/adityacprtm)
-
 ## 🚀 Github Stats
 
 <details>
