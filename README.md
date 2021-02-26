@@ -1,15 +1,15 @@
 # Hi there, I'm Aditya - [Adityacprtm][website] 👋
 
 -   🌱 I’m currently learning **DevOps** and **SRE**
--   👨‍💻 All of my projects are available at **[adityacprtm.com](https://adityacprtm.com)**
--   📝 I regulary write articles on **[dev.to](https://dev.to/adityacprtm)**
+-   👨‍💻 All of my projects are available at **[adityacprtm.dev](https://adityacprtm.dev)**
+-   📝 I regulary write articles on **[my blog](https://adityacprtm.dev/blog)**
 -   📫 How to reach me **pratamaditya7@gmail.com**
 -   👻 **npx** adityacprtm
 -   ⚡ Fun fact **pevita lovers** 💘
 
 ## 😎 Connect with me:
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.com&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.com)](https://adityacprtm.com)
+[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)](https://adityacprtm.dev)
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -34,11 +34,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 🔥 [Cara Membuat Laravel Tagging System](https://dev.to/adityacprtm/cara-membuat-laravel-tagging-system-ll6)
- - 💫 [Cara Membuat Newsletter Subscribers dengan Laravel](https://dev.to/adityacprtm/cara-membuat-newsletter-subscribers-dengan-laravel-22ho)
- - 🌮 [$title]($url) [Cara Mudah Mengatur Access Control List (ACL) di Linux](https://dev.to/adityacprtm/cara-mudah-mengatur-access-control-list-acl-di-linux-5af2)
- - 💫 [Membuat OpenVPN Server dalam Hitungan Detik](https://dev.to/adityacprtm/membuat-openvpn-server-dalam-hitungan-detik-2c7h)
- - 🔥 [Konfigurasi Awal Untuk Mengamankan Server Baru](https://dev.to/adityacprtm/konfigurasi-awal-untuk-mengamankan-server-baru-24mk)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts on dev.to ...](https://dev.to/adityacprtm)
 
@@ -50,79 +46,11 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 61 Contributions in the Year 2021
- > 
-> 📦 400.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    100 commits    █████░░░░░░░░░░░░░░░░░░░░   21.98% 
-🌆 Daytime    169 commits    █████████░░░░░░░░░░░░░░░░   37.14% 
-🌃 Evening    156 commits    ████████░░░░░░░░░░░░░░░░░   34.29% 
-🌙 Night      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.59%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
-Tuesday      93 commits     █████░░░░░░░░░░░░░░░░░░░░   20.44% 
-Wednesday    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Thursday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Friday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
-Saturday     63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-Sunday       91 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   11 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.04% 
-JavaScript               5 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   22.55% 
-Bash                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
-Groovy                   49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
-
-🔥 Editors: 
-VS Code                  24 hrs 2 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    24 hrs 2 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               15 repos            █████████░░░░░░░░░░░░░░░░   39.47% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
 
-[website]: https://adityacprtm.com
+[website]: https://adityacprtm.dev
 [twitter]: https://twitter.com/adityacprtm
 [steam]: https://steamcommunity.com/id/adityacprtm
 [instagram]: https://instagram.com/adityacprtm
