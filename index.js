@@ -16,8 +16,8 @@ const data = {
   name: chalk.bold.blue("Aditya Chamim Pratama"),
   nickname: chalk.bold("Adityacprtm"),
 
-  web: chalk.green("https://www.adityacprtm.dev"),
-  blog: chalk.green("https://dev.to/adityacprtm  "),
+  web: chalk.green("https://adityacprtm.dev    "),
+  blog: chalk.green("https://adityacprtm.dev/blog "),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("adityacprtm"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("~adityacprtm"),
   github: chalk.gray("https://github.com/") + chalk.white("Adityacprtm"),
@@ -25,7 +25,7 @@ const data = {
   npx: chalk.red("npx") + " " + chalk.white("adityacprtm"),
 
   labelWeb: chalk.white.bold("Web:"),
-  labelBlog: chalk.white.bold("Blog:"),
+  labelBlog: chalk.white.bold(" Blog:"),
   labelTwitter: chalk.white.bold("Twitter:"),
   labelNpm: chalk.white.bold("  npm:"),
   labelGitHub: chalk.white.bold("GitHub:"),
