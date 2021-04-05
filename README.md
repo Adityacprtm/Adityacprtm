@@ -35,7 +35,7 @@
 ## 🚀 Github Stats
 
 <details>
-  <summary>:zap: Expand Me</summary>
+  <summary> :zap: Expand Me</summary>
 
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
