@@ -27,7 +27,7 @@
 | Version Control | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Servers         | ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Databases       | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                                                                                                                                                                                                                                                                                                                                                            |
-| Deployment      | ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)                                                                                                                                                                                                                                                                                                                                           |
+| Deployment      | ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)                                                                                                                                                                                                                     |
 | Other           | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## ✨ Card
@@ -47,75 +47,6 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 180 Contributions in the Year 2021
- > 
-> 📦 412.7 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    204 commits    ██████░░░░░░░░░░░░░░░░░░░   26.05% 
-🌆 Daytime    268 commits    ████████░░░░░░░░░░░░░░░░░   34.23% 
-🌃 Evening    249 commits    ████████░░░░░░░░░░░░░░░░░   31.8% 
-🌙 Night      62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
-Tuesday      157 commits    █████░░░░░░░░░░░░░░░░░░░░   20.05% 
-Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
-Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
-Friday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
-Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
-Sunday       156 commits    █████░░░░░░░░░░░░░░░░░░░░   19.92%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   39.48% 
-Groovy                   3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.37% 
-Docker                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
-TOML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-Nginx configuration file 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
-
-🔥 Editors: 
-VS Code                  10 hrs 52 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    10 hrs 47 mins      ████████████████████████░   99.28% 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               14 repos            ████████░░░░░░░░░░░░░░░░░   34.15% 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
