@@ -1,36 +1,36 @@
 {
-  "name": "adityacprtm",
-  "version": "1.4.2",
-  "description": "A personal npm card for Aditya Chamim Pratama (@adityacprtm)",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "engines": {
-    "node": ">=10",
-    "npm": ">=6.0.0"
-  },
-  "bin": {
-    "adityacprtm": "index.js"
-  },
-  "keywords": [
-    "npm",
-    "npx",
-    "node",
-    "javascript",
-    "npx card"
-  ],
-  "author": "Aditya Pratama <pratamaditya7@gmail.com> (https://adityacprtm.dev/)",
-  "license": "ISC",
-  "dependencies": {
-    "boxen": "^5.0.0",
-    "chalk": "^4.1.0",
-    "clear": "^0.1.0",
-    "inquirer": "^8.0.0",
-    "open": "^8.0.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Adityacprtm/Adityacprtm.git"
-  }
+    "name": "adityacprtm",
+    "version": "1.4.2",
+    "description": "A personal npm card for Aditya Chamim Pratama (@adityacprtm)",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines": {
+        "node": ">=10",
+        "npm": ">=6.0.0"
+    },
+    "bin": {
+        "adityacprtm": "index.js"
+    },
+    "keywords": [
+        "npm",
+        "npx",
+        "node",
+        "javascript",
+        "npx card"
+    ],
+    "author": "Aditya Pratama <pratamaditya7@gmail.com> (https://adityacprtm.dev/)",
+    "license": "ISC",
+    "dependencies": {
+        "boxen": "^5.0.1",
+        "chalk": "^4.1.1",
+        "clear": "^0.1.0",
+        "inquirer": "^8.1.1",
+        "open": "^8.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Adityacprtm/Adityacprtm.git"
+    }
 }
