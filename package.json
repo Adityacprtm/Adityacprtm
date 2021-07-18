@@ -1,6 +1,6 @@
 {
     "name": "adityacprtm",
-    "version": "1.4.4",
+    "version": "1.4.5",
     "description": "A personal npm card for Aditya Chamim Pratama (@adityacprtm)",
     "main": "index.js",
     "scripts": {
