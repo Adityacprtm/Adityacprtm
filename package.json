@@ -23,7 +23,7 @@
     "author": "Aditya Pratama <pratamaditya7@gmail.com> (https://adityacprtm.dev/)",
     "license": "ISC",
     "dependencies": {
-        "boxen": "^5.0.1",
+        "boxen": "^6.0.0",
         "chalk": "^4.1.1",
         "clear": "^0.1.0",
         "inquirer": "^8.1.2",
