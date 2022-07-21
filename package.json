@@ -1,14 +1,15 @@
 {
   "name": "adityacprtm",
-  "version": "1.4.7",
+  "version": "1.4.8",
   "description": "A personal npm card for Aditya Chamim Pratama (@adityacprtm)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=10",
-    "npm": ">=6.0.0"
+    "node": ">=16",
+    "npm": ">=8",
+    "yarn": ">=1"
   },
   "bin": {
     "adityacprtm": "index.js"
@@ -21,16 +22,13 @@
     "npx card"
   ],
   "author": "Aditya Pratama <pratamaditya7@gmail.com> (https://adityacprtm.dev/)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "boxen": "^5.1.2",
-    "chalk": "^4.1.2",
+    "boxen": "5.1.2",
+    "chalk": "4.1.2",
     "clear": "^0.1.0",
-    "inquirer": "^8.2.0",
-    "open": "^8.3.0"
+    "inquirer": "8.2.0",
+    "open": "^8.4.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Adityacprtm/Adityacprtm.git"
-  }
+  "repository": "https://github.com/Adityacprtm/Adityacprtm.git"
 }
