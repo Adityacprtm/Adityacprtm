@@ -51,15 +51,15 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,193 Contributions in the Year 2022
+> 🏆 1,202 Contributions in the Year 2022
  > 
-> 📦 455.1 kB Used in GitHub's Storage 
+> 📦 455.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -80,7 +80,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2022 17:43:17 UTC
+ Last Updated on 07/09/2022 17:40:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
