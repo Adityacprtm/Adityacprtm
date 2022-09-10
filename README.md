@@ -51,7 +51,7 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -59,7 +59,7 @@
 
 > 🏆 1,208 Contributions in the Year 2022
  > 
-> 📦 456.0 kB Used in GitHub's Storage 
+> 📦 456.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,17 +94,17 @@ Sunday       194 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Groovy                   4 hrs 19 mins       ██████████████░░░░░░░░░░░   59.36% 
-YAML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Docker                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
+Groovy                   3 hrs 14 mins       ██████████████░░░░░░░░░░░   56.35% 
+YAML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+Docker                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
 
 🔥 Editors: 
-VS Code                  7 hrs 16 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 44 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      7 hrs 16 mins       █████████████████████████   100.0%
+Mac                      5 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +121,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2022 17:43:53 UTC
+ Last Updated on 10/09/2022 17:40:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
