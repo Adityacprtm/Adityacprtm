@@ -51,7 +51,7 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -59,7 +59,7 @@
 
 > 🏆 1,270 Contributions in the Year 2022
  > 
-> 📦 457.2 kB Used in GitHub's Storage 
+> 📦 457.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,17 +94,17 @@ Sunday       192 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Groovy                   4 hrs 20 mins       ████████████████░░░░░░░░░   65.86% 
-YAML                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53% 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+Groovy                   4 hrs 29 mins       ███████████████░░░░░░░░░░   59.5% 
+YAML                     1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   22.9% 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 33 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 35 mins       █████████████████████████   100.0%
+Mac                      7 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +121,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2022 17:44:17 UTC
+ Last Updated on 24/09/2022 17:34:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
