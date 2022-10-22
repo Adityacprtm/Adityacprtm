@@ -51,7 +51,7 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -59,7 +59,7 @@
 
 > 🏆 1,449 Contributions in the Year 2022
  > 
-> 📦 464.2 kB Used in GitHub's Storage 
+> 📦 464.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,11 +94,11 @@ Sunday       177 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     49 mins             ████████░░░░░░░░░░░░░░░░░   32.25% 
-Bash                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   26.29% 
+YAML                     49 mins             ████████░░░░░░░░░░░░░░░░░   32.23% 
+Bash                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   26.28% 
 Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.24% 
 JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Groovy                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
+Groovy                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.05%
 
 🔥 Editors: 
 VS Code                  2 hrs 32 mins       █████████████████████████   100.0%
@@ -121,7 +121,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2022 17:46:19 UTC
+ Last Updated on 22/10/2022 17:37:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
