@@ -51,15 +51,15 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,684 Contributions in the Year 2022
+> 🏆 1,685 Contributions in the Year 2022
  > 
-> 📦 473.1 kB Used in GitHub's Storage 
+> 📦 473.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,17 +94,17 @@ Sunday       174 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   47.22% 
-Groovy                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Go                       26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.22%
+YAML                     2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   42.29% 
+HTML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+Groovy                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+Go                       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.21%
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 8 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 37 mins       █████████████████████████   100.0%
+Mac                      6 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +121,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 17:26:00 UTC
+ Last Updated on 30/11/2022 17:28:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
