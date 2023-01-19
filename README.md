@@ -51,15 +51,15 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 111 Contributions in the Year 2023
+> 🏆 113 Contributions in the Year 2023
  > 
-> 📦 480.0 kB Used in GitHub's Storage 
+> 📦 480.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,17 +94,17 @@ Sunday       154 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.58% 
-YAML                     2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.88% 
-SQL                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Bash                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Properties               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
+Terraform                3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.27% 
+YAML                     2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78% 
+Bash                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+SQL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
 
 🔥 Editors: 
-VS Code                  9 hrs 54 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 20 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      9 hrs 54 mins       █████████████████████████   100.0%
+Mac                      9 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +121,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2023 17:23:37 UTC
+ Last Updated on 19/01/2023 17:25:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
