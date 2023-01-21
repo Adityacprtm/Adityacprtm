@@ -51,7 +51,7 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C245%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -59,7 +59,7 @@
 
 > 🏆 116 Contributions in the Year 2023
  > 
-> 📦 480.4 kB Used in GitHub's Storage 
+> 📦 480.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,17 +94,17 @@ Sunday       154 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.67% 
-YAML                     2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.46% 
-Bash                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
-Groovy                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+Terraform                3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.8% 
+YAML                     1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.57% 
+Bash                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Groovy                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.83%
 
 🔥 Editors: 
-VS Code                  8 hrs 8 mins        █████████████████████████   100.0%
+VS Code                  7 hrs 24 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 8 mins        █████████████████████████   100.0%
+Mac                      7 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +121,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2023 17:24:11 UTC
+ Last Updated on 21/01/2023 17:25:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
