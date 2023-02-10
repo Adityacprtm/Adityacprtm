@@ -51,15 +51,15 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C286%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C300%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 238 Contributions in the Year 2023
+> 🏆 239 Contributions in the Year 2023
  > 
-> 📦 484.0 kB Used in GitHub's Storage 
+> 📦 483.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,17 +94,17 @@ Sunday         154 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                8 hrs 11 mins       ████████████░░░░░░░░░░░░░   50.74 % 
-YAML                     5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   35.14 % 
-Groovy                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Markdown                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Terraform                16 hrs 27 mins      █████████████████░░░░░░░░   71.12 % 
+YAML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Groovy                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  23 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      23 hrs 8 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -121,7 +121,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2023 17:27:53 UTC
+ Last Updated on 10/02/2023 17:28:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
