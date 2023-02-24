@@ -51,15 +51,15 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2052%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 484.8 kB Used in GitHub's Storage 
+> 📦 485.8 kB Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2023
+> 🏆 293 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -92,17 +92,17 @@ Sunday                   242 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   42.00 % 
-Text                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Terraform                59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Bash                     2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+YAML                     2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Groovy                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Text                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Terraform                59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 17:18:26 UTC
+ Last Updated on 24/02/2023 17:18:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
