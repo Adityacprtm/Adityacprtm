@@ -51,13 +51,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C327%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C330%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 487.0 kB Used in GitHub's Storage 
+> 📦 487.2 kB Used in GitHub's Storage 
  > 
 > 🏆 357 Contributions in the Year 2023
  > 
@@ -92,17 +92,17 @@ Sunday                   250 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-YAML                     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Terraform                4 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.68 % 
+YAML                     1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2023 17:18:09 UTC
+ Last Updated on 04/03/2023 17:15:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
