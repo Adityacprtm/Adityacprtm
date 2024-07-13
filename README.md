@@ -51,13 +51,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C956%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C956%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 538.8 kB Used in GitHub's Storage 
+> 📦 538.9 kB Used in GitHub's Storage 
  > 
 > 🏆 597 Contributions in the Year 2024
  > 
@@ -92,17 +92,17 @@ Sunday                   4430 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                1 hr 57 mins        ██████████████████░░░░░░░   70.79 % 
-YAML                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Docker                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Terraform                1 hr 36 mins        █████████████░░░░░░░░░░░░   50.12 % 
+YAML                     1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.41 % 
+Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 18:06:07 UTC
+ Last Updated on 13/07/2024 18:10:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
