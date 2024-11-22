@@ -51,15 +51,15 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C054%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 553.3 kB Used in GitHub's Storage 
+> 📦 553.5 kB Used in GitHub's Storage 
  > 
-> 🏆 960 Contributions in the Year 2024
+> 🏆 961 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -92,17 +92,17 @@ Sunday                   4618 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   35.37 % 
-Terraform                56 mins             ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+YAML                     1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   41.40 % 
+Terraform                56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2024 17:21:52 UTC
+ Last Updated on 22/11/2024 17:23:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
