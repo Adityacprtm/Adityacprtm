@@ -51,13 +51,11 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C084%20hrs%2017%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-424.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 560.4 kB Used in GitHub's Storage 
+> 📦 560.5 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2025
  > 
@@ -80,7 +78,7 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2025 22:51:36 UTC
+ Last Updated on 09/01/2025 23:14:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
