@@ -51,13 +51,11 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C090%20hrs%2023%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-322.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 562.2 kB Used in GitHub's Storage 
+> 📦 562.6 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2025
  > 
@@ -67,44 +65,6 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                112782 commits      █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-🌆 Daytime                247201 commits      ███████████░░░░░░░░░░░░░░   42.25 % 
-🌃 Evening                206538 commits      █████████░░░░░░░░░░░░░░░░   35.30 % 
-🌙 Night                  18573 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   146415 commits      ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Tuesday                  169493 commits      ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-Wednesday                81606 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Thursday                 87952 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Friday                   81380 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Saturday                 9563 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Sunday                   8685 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   33.37 % 
-Terraform                1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-HCL                      55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Go                       27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -118,7 +78,7 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2025 22:11:25 UTC
+ Last Updated on 23/01/2025 22:15:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
