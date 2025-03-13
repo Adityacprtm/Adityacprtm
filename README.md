@@ -51,15 +51,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C114%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-326.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 573.4 kB Used in GitHub's Storage 
- > 
-> 🏆 65 Contributions in the Year 2025
+> 📦 573.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -67,6 +65,44 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                113269 commits      █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌆 Daytime                252103 commits      ███████████░░░░░░░░░░░░░░   42.74 % 
+🌃 Evening                203705 commits      █████████░░░░░░░░░░░░░░░░   34.54 % 
+🌙 Night                  20711 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   143331 commits      ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Tuesday                  170017 commits      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Wednesday                89743 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Thursday                 94826 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Friday                   71449 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Saturday                 10768 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Sunday                   9654 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Terraform                1 hr 18 mins        █████████████░░░░░░░░░░░░   51.97 % 
+YAML                     53 mins             █████████░░░░░░░░░░░░░░░░   35.70 % 
+Docker                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -80,7 +116,7 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2025 20:13:24 UTC
+ Last Updated on 13/03/2025 20:15:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
