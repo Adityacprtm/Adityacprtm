@@ -51,13 +51,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C162%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C163%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 631.2 kB Used in GitHub's Storage 
+> 📦 631.4 kB Used in GitHub's Storage 
  > 
 > 🏆 144 Contributions in the Year 2025
  > 
@@ -67,6 +67,44 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                32834 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+🌆 Daytime                130797 commits      ██████████████░░░░░░░░░░░   54.64 % 
+🌃 Evening                63251 commits       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+🌙 Night                  12480 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   51788 commits       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Tuesday                  48612 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Wednesday                45498 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Thursday                 36680 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Friday                   35966 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Saturday                 10191 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Sunday                   10627 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.42 % 
+Bash                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Terraform                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -80,7 +118,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2025 18:08:03 UTC
+ Last Updated on 18/06/2025 18:10:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
