@@ -51,13 +51,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C175%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 635.5 kB Used in GitHub's Storage 
+> 📦 635.7 kB Used in GitHub's Storage 
  > 
 > 🏆 150 Contributions in the Year 2025
  > 
@@ -92,17 +92,17 @@ Sunday                   5654 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-Python                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-YAML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Go                       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Terraform                2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+Bash                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Go                       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2025 18:01:25 UTC
+ Last Updated on 06/07/2025 17:56:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
