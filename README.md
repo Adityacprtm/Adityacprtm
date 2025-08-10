@@ -51,13 +51,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C204%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 643.2 kB Used in GitHub's Storage 
+> 📦 643.5 kB Used in GitHub's Storage 
  > 
 > 🏆 204 Contributions in the Year 2025
  > 
@@ -92,17 +92,17 @@ Sunday                   5847 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.36 % 
-YAML                     1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-Python                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Terraform                2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.59 % 
+YAML                     2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.26 % 
+Python                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2025 17:58:34 UTC
+ Last Updated on 10/08/2025 17:58:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
