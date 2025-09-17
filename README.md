@@ -51,13 +51,15 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C226%20hrs%2022%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-92.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 652.0 kB Used in GitHub's Storage 
+> 📦 652.3 kB Used in GitHub's Storage 
  > 
-> 🏆 284 Contributions in the Year 2025
+> 🏆 296 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,6 +67,44 @@
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9506 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+🌆 Daytime                49572 commits       ████████████████░░░░░░░░░   63.89 % 
+🌃 Evening                13848 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+🌙 Night                  4666 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   18671 commits       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Tuesday                  14951 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Wednesday                13710 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Thursday                 8626 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Friday                   10231 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Saturday                 5347 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Sunday                   6056 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     2 hrs 54 mins       ████████████████░░░░░░░░░   62.00 % 
+Docker                   1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Go                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -78,7 +118,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 18:06:32 UTC
+ Last Updated on 17/09/2025 18:04:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
