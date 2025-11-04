@@ -51,13 +51,15 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C255%20hrs%2049%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 661.4 kB Used in GitHub's Storage 
+> 📦 661.5 kB Used in GitHub's Storage 
  > 
-> 🏆 415 Contributions in the Year 2025
+> 🏆 418 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -78,7 +80,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:15:25 UTC
+ Last Updated on 04/11/2025 18:17:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
