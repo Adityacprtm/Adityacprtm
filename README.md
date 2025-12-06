@@ -51,13 +51,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C280%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C281%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 664.4 kB Used in GitHub's Storage 
+> 📦 664.5 kB Used in GitHub's Storage 
  > 
 > 🏆 496 Contributions in the Year 2025
  > 
@@ -92,17 +92,16 @@ Sunday                   6540 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     4 hrs 46 mins       █████████████░░░░░░░░░░░░   51.21 % 
-Markdown                 1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Other                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Terraform                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+YAML                     2 hrs 27 mins       ████████████████░░░░░░░░░   62.49 % 
+Terraform                1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.27 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +117,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2025 18:16:24 UTC
+ Last Updated on 06/12/2025 18:17:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
