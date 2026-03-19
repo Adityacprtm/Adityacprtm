@@ -51,13 +51,13 @@
 ![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.62%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 674.1 kB Used in GitHub's Storage 
+> 📦 674.2 kB Used in GitHub's Storage 
  > 
 > 🏆 195 Contributions in the Year 2026
  > 
@@ -92,17 +92,17 @@ Sunday                   6403 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.84 % 
-Nginx configuration file 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Docker                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.80 % 
+YAML                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Nginx configuration file 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Docker                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 Editors: 
-Antigravity              5 hrs 13 mins       █████████████████████████   100.00 % 
+Antigravity              5 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2026 19:11:20 UTC
+ Last Updated on 19/03/2026 18:54:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
