@@ -1,100 +1,94 @@
 #!/usr/bin/env node
 
-"use strict";
+import boxen from "boxen";
+import chalk from "chalk";
+import { select } from "@inquirer/prompts";
+import open from "open";
 
-const boxen = require("boxen");
-const chalk = require("chalk");
-const inquirer = require("inquirer");
-const clear = require("clear");
-const open = require("open");
-
-clear();
-
-var prompt = inquirer.createPromptModule();
+process.stdout.write("\x1Bc");
 
 const data = {
-  name: chalk.bold.blue("Aditya Chamim Pratama"),
-  nickname: chalk.bold("Adityacprtm"),
+  name: chalk.bold.cyan("Aditya Pratama"),
+  handle: chalk.dim("@adityacprtm"),
+  role: chalk.bold("DevOps · SRE · Cloud Engineer"),
+  tagline: chalk.dim("Building reliable systems at scale."),
 
-  web: chalk.green("https://adityacprtm.dev    "),
-  blog: chalk.green("https://adityacprtm.dev/blog "),
-  twitter: chalk.gray("https://twitter.com/") + chalk.cyan("adityacprtm"),
-  npm: chalk.gray("https://npmjs.com/") + chalk.red("~adityacprtm"),
-  github: chalk.gray("https://github.com/") + chalk.white("Adityacprtm"),
-  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("adityacprtm"),
-  npx: chalk.red("npx") + " " + chalk.white("adityacprtm"),
+  web: chalk.cyan("https://adityacprtm.dev"),
+  blog: chalk.cyan("https://adityacprtm.dev/blog"),
+  github: chalk.cyan("https://github.com/Adityacprtm"),
+  linkedin: chalk.cyan("https://linkedin.com/in/adityacprtm"),
+  twitter: chalk.cyan("https://x.com/adityacprtm"),
+  email: chalk.cyan("aditya@adityacprtm.dev"),
 
-  labelWeb: chalk.white.bold("Web:"),
-  labelBlog: chalk.white.bold(" Blog:"),
-  labelTwitter: chalk.white.bold("Twitter:"),
-  labelNpm: chalk.white.bold("  npm:"),
-  labelGitHub: chalk.white.bold("GitHub:"),
-  labelLinkedIn: chalk.white.bold("  LinkedIn:"),
-  labelCard: chalk.white.bold("Card:"),
+  labelWeb: chalk.white.bold("      Web"),
+  labelBlog: chalk.white.bold("     Blog"),
+  labelGitHub: chalk.white.bold("   GitHub"),
+  labelLinkedIn: chalk.white.bold(" LinkedIn"),
+  labelTwitter: chalk.white.bold("        X"),
+  labelEmail: chalk.white.bold("    Email"),
 };
+
+const sep = chalk.dim("──────────────────────────────────────────");
 
 const box = boxen(
   [
-    `${data.name} | ${data.nickname} 🚀`,
+    `${data.name}  ${data.handle}`,
+    `${data.role}`,
+    `${data.tagline}`,
     ``,
-    `${data.labelWeb}  ${data.web}`,
-    `${data.labelBlog}  ${data.blog}`,
-    `${data.labelTwitter}  ${data.twitter}`,
-    `${data.labelNpm}  ${data.npm}`,
-    `${data.labelGitHub}  ${data.github}`,
-    `${data.labelLinkedIn}  ${data.linkedin}`,
+    sep,
     ``,
-    `${data.npx}`,
+    `${data.labelWeb}  ${chalk.dim("→")}  ${data.web}`,
+    `${data.labelBlog}  ${chalk.dim("→")}  ${data.blog}`,
+    `${data.labelGitHub}  ${chalk.dim("→")}  ${data.github}`,
+    `${data.labelLinkedIn}  ${chalk.dim("→")}  ${data.linkedin}`,
+    `${data.labelTwitter}  ${chalk.dim("→")}  ${data.twitter}`,
+    `${data.labelEmail}  ${chalk.dim("→")}  ${data.email}`,
     ``,
-    `${chalk.italic.bold("I am an enthusiastic newbie.")}`,
-    `${chalk.italic("There is much to learn and much more to build.")}`,
-    `${chalk.italic("So far and for this, I am very grateful.")}`,
+    sep,
+    ``,
+    chalk.dim("AWS · GCP · Kubernetes · Terraform · Docker"),
+    chalk.dim("Prometheus · Grafana · Kong · Elastic Stack"),
   ].join("\n"),
   {
-    borderColor: "blue",
-    borderStyle: "double",
+    borderColor: "cyan",
+    borderStyle: "round",
     padding: 1,
     margin: 1,
     float: "center",
-    textAlignment: "center",
+    textAlignment: "left",
   }
 );
 
-const questions = [
-  {
-    type: "list",
-    name: "action",
-    message: "What's next?",
-    choices: [
-      {
-        name: `Send me an ${chalk.green.bold("email")}?`,
-        value: () => {
-          open("mailto:aditya@adityacprtm.dev");
-          console.log(
-            "\nPlease wait, your email application will pop up soon,\nsee ya.\n"
-          );
-        },
-      },
-      {
-        name: "Just quit.",
-        value: () => {
-          console.log("Ok, bye.\n");
-        },
-      },
-    ],
-  },
-];
-
 console.log(box);
 
-const tip = [
-  `${chalk.white.bold(
-    "Tip"
-  )}: if the terminal supports, try ${chalk.cyanBright.bold(
-    "cmd/ctrl + click"
-  )} the link above 😉`,
-  "",
-].join("\n");
-console.log(tip);
+console.log(
+  chalk.dim(
+    "  Tip: " +
+    chalk.bold("cmd/ctrl + click") +
+    " any link above to open it directly.\n"
+  )
+);
 
-prompt(questions).then((answer) => answer.action());
+const actions = {
+  website:  () => { open("https://adityacprtm.dev");               console.log(chalk.dim("\nOpening website...\n")); },
+  linkedin: () => { open("https://linkedin.com/in/adityacprtm");  console.log(chalk.dim("\nOpening LinkedIn...\n")); },
+  email:    () => { open("mailto:aditya@adityacprtm.dev");         console.log(chalk.dim("\nOpening email client...\n")); },
+  exit:     () => { console.log(chalk.dim("\nSee you around.\n")); },
+};
+
+async function main() {
+  const action = await select({
+    message: "What would you like to do?",
+    choices: [
+      { name: "Open website",  value: "website" },
+      { name: "Open LinkedIn", value: "linkedin" },
+      { name: "Send an email", value: "email" },
+      { name: "Exit",          value: "exit" },
+    ],
+  }).catch(() => "exit");
+
+  actions[action]();
+}
+
+main();
