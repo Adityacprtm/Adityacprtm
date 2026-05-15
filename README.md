@@ -75,13 +75,11 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C423%20hrs%2029%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 681.8 kB Used in GitHub's Storage 
+> 📦 681.9 kB Used in GitHub's Storage 
  > 
 > 🏆 568 Contributions in the Year 2026
  > 
@@ -104,7 +102,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 19:58:52 UTC
+ Last Updated on 15/05/2026 19:28:58 UTC
 <!--END_SECTION:waka-->
 
 ---
