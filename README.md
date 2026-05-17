@@ -75,15 +75,13 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%2023%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 682.0 kB Used in GitHub's Storage 
+> 📦 682.1 kB Used in GitHub's Storage 
  > 
-> 🏆 568 Contributions in the Year 2026
+> 🏆 573 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,45 +89,6 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                28292 commits       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-🌆 Daytime                66608 commits       ██████████████░░░░░░░░░░░   56.67 % 
-🌃 Evening                18914 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-🌙 Night                  3718 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   28461 commits       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-Tuesday                  23502 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Wednesday                21154 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Thursday                 14634 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Friday                   16237 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Saturday                 6827 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Sunday                   6717 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Python                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-YAML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Bash                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-JavaScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 58 mins      ██████████████████████░░░   87.91 % 
-Unknown Editor           2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-
-💻 Operating System: 
-Mac                      20 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -143,7 +102,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2026 18:52:56 UTC
+ Last Updated on 17/05/2026 19:08:07 UTC
 <!--END_SECTION:waka-->
 
 ---
