@@ -77,13 +77,13 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C536%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.97%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 684.9 kB Used in GitHub's Storage 
+> 📦 685.3 kB Used in GitHub's Storage 
  > 
-> 🏆 908 Contributions in the Year 2026
+> 🏆 920 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,20 +91,59 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                30813 commits       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+🌆 Daytime                73324 commits       ██████████████░░░░░░░░░░░   57.31 % 
+🌃 Evening                19769 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌙 Night                  4043 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   31437 commits       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Tuesday                  25710 commits       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Wednesday                23745 commits       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Thursday                 16567 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Friday                   18079 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Saturday                 6227 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Sunday                   6184 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
+Vue                      2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Markdown                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+
+🔥 Editors: 
+OpenCode                 8 hrs 12 mins       █████████████████░░░░░░░░   68.51 % 
+VS Code                  3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
+
+💻 Operating System: 
+Mac                      11 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 
 
 
 
- Last Updated on 28/06/2026 19:19:26 UTC
+ Last Updated on 29/06/2026 20:03:58 UTC
 <!--END_SECTION:waka-->
 
 ---
