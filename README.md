@@ -75,13 +75,11 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C563%20hrs%2035%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 693.7 kB Used in GitHub's Storage 
+> 📦 693.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,011 Contributions in the Year 2026
  > 
@@ -94,17 +92,17 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Dockerfile               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Dockerfile               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 ```
 
 
 
 
- Last Updated on 23/07/2026 19:35:06 UTC
+ Last Updated on 24/07/2026 19:30:25 UTC
 <!--END_SECTION:waka-->
 
 ---
