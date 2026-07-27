@@ -75,9 +75,11 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C557%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C450%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.61%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2032%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.63%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -94,21 +96,21 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                34001 commits       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-🌆 Daytime                78796 commits       ██████████████░░░░░░░░░░░   56.51 % 
-🌃 Evening                22088 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-🌙 Night                  4545 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+🌞 Morning                34233 commits       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌆 Daytime                79388 commits       ██████████████░░░░░░░░░░░   56.54 % 
+🌃 Evening                22224 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+🌙 Night                  4555 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   33373 commits       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Tuesday                  28246 commits       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Wednesday                26172 commits       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Thursday                 17890 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Friday                   19870 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 6865 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Sunday                   7014 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Monday                   33634 commits       ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Tuesday                  28507 commits       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Wednesday                26395 commits       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Thursday                 18011 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Friday                   19969 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Saturday                 6868 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Sunday                   7016 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -116,18 +118,36 @@ Sunday                   7014 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     10 mins             ████████░░░░░░░░░░░░░░░░░   32.88 % 
-JavaScript               7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Markdown                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Git Config               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Vue                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JSON                     10 mins             █████████████░░░░░░░░░░░░   51.79 % 
+JavaScript               7 mins              █████████░░░░░░░░░░░░░░░░   36.26 % 
+Vue                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-OpenCode                 23 mins             ██████████████████░░░░░░░   71.57 % 
-VS Code                  9 mins              ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+OpenCode                 21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 mins (100.0%)
+
+✍️ 70 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 118,136 Input Tokens, 1,522 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 82 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,7 +163,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:11:20 UTC
+ Last Updated on 27/07/2026 19:34:49 UTC
 <!--END_SECTION:waka-->
 
 ---
