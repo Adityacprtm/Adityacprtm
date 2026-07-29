@@ -75,11 +75,15 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.08%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C450%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2032%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 694.5 kB Used in GitHub's Storage 
+> 📦 694.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,011 Contributions in the Year 2026
  > 
@@ -89,6 +93,46 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                34599 commits       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+🌆 Daytime                80040 commits       ██████████████░░░░░░░░░░░   56.45 % 
+🌃 Evening                22523 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+🌙 Night                  4625 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   33907 commits       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Tuesday                  28743 commits       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Wednesday                26702 commits       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Thursday                 18191 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Friday                   20176 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Saturday                 6946 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Sunday                   7122 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -102,7 +146,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 19:40:02 UTC
+ Last Updated on 29/07/2026 19:28:12 UTC
 <!--END_SECTION:waka-->
 
 ---
