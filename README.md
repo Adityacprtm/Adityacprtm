@@ -75,11 +75,11 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C450%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C450%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -96,21 +96,21 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                35238 commits       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-🌆 Daytime                81098 commits       ██████████████░░░░░░░░░░░   56.23 % 
-🌃 Evening                23139 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-🌙 Night                  4759 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+🌞 Morning                35395 commits       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+🌆 Daytime                81368 commits       ██████████████░░░░░░░░░░░   56.23 % 
+🌃 Evening                23171 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+🌙 Night                  4763 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   34347 commits       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Tuesday                  29199 commits       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Wednesday                27227 commits       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Thursday                 18487 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   20547 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 7094 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Sunday                   7333 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Monday                   34463 commits       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Tuesday                  29329 commits       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Wednesday                27370 commits       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Thursday                 18519 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Friday                   20585 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Saturday                 7096 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Sunday                   7335 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 ```
 
 
@@ -118,13 +118,16 @@ Sunday                   7333 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    11 mins             ████████████░░░░░░░░░░░░░   46.31 % 
+Bash                     9 mins              ██████████░░░░░░░░░░░░░░░   40.54 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +149,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 19:57:26 UTC
+ Last Updated on 05/08/2026 19:46:47 UTC
 <!--END_SECTION:waka-->
 
 ---
