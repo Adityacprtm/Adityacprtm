@@ -75,11 +75,15 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.94%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C451%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%208%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 695.5 kB Used in GitHub's Storage 
+> 📦 695.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,011 Contributions in the Year 2026
  > 
@@ -89,6 +93,67 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                33330 commits       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+🌆 Daytime                77202 commits       ██████████████░░░░░░░░░░░   56.28 % 
+🌃 Evening                22006 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+🌙 Night                  4627 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   33227 commits       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Tuesday                  26632 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Wednesday                25626 commits       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Thursday                 17986 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   19713 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Saturday                 6875 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Sunday                   7106 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    21 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Python                   18 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+JavaScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Bash                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Mermaid                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+
+🔥 Editors: 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 36 mins (50.98%)
+
+✍️ 70 lines written by AI, 48 lines written by hand (59.32% AI-written)
+
+🔤 456,241 Input Tokens, 17,431 Output Tokens
+
+💵 $1.73 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 13 AI Prompts
+
+Deepseek                 70 lines            █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 59.32% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 64.65% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -102,7 +167,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:01:47 UTC
+ Last Updated on 08/08/2026 18:30:27 UTC
 <!--END_SECTION:waka-->
 
 ---
