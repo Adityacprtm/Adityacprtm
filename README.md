@@ -75,15 +75,15 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C451%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C451%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 695.8 kB Used in GitHub's Storage 
+> 📦 695.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,012 Contributions in the Year 2026
  > 
@@ -96,21 +96,21 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                35550 commits       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-🌆 Daytime                81655 commits       ██████████████░░░░░░░░░░░   56.25 % 
-🌃 Evening                23184 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-🌙 Night                  4767 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+🌞 Morning                35498 commits       ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+🌆 Daytime                81630 commits       ██████████████░░░░░░░░░░░   56.26 % 
+🌃 Evening                23191 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+🌙 Night                  4768 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   34569 commits       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Tuesday                  29450 commits       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Wednesday                27498 commits       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Thursday                 18574 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Friday                   20629 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 7099 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Sunday                   7337 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Monday                   34567 commits       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Tuesday                  29423 commits       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Wednesday                27453 commits       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Thursday                 18575 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Friday                   20632 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Saturday                 7100 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Sunday                   7337 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 
@@ -118,40 +118,41 @@ Sunday                   7337 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
-Python                   18 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-JavaScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Bash                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Mermaid                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Other                    21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Python                   18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+JSON                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+JavaScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Bash                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████░░░░   83.73 % 
+OpenCode                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (50.98%)
+⏱ AI Coding Time: 51 mins (56.59%)
 
-✍️ 70 lines written by AI, 48 lines written by hand (59.32% AI-written)
+✍️ 98 lines written by AI, 48 lines written by hand (67.12% AI-written)
 
-🔤 456,241 Input Tokens, 17,431 Output Tokens
+🔤 545,074 Input Tokens, 18,468 Output Tokens
 
-💵 $1.73 Estimated AI Cost This Week
+💵 $2.05 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 13 AI Prompts
+🧠 7 AI Sessions, 16 AI Prompts
 
-Deepseek                 70 lines            █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 70 lines            █████████████████████░░░░   83.33 % 
+Opencode-Cli             14 lines            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.32% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 64.65% of changed lines were hand-edited
+🤖 AI-Driven — 67.12% of written lines came from AI
+📝 Concise Prompter — average 142 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 56.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -167,7 +168,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 18:50:53 UTC
+ Last Updated on 10/08/2026 19:23:26 UTC
 <!--END_SECTION:waka-->
 
 ---
