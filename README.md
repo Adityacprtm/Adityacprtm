@@ -75,17 +75,17 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C456%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C458%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 696.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,018 Contributions in the Year 2026
+> 🏆 1,027 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -96,21 +96,21 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                35953 commits       ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-🌆 Daytime                82289 commits       ██████████████░░░░░░░░░░░   56.02 % 
-🌃 Evening                23768 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-🌙 Night                  4893 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+🌞 Morning                36010 commits       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+🌆 Daytime                82387 commits       ██████████████░░░░░░░░░░░   56.02 % 
+🌃 Evening                23778 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+🌙 Night                  4902 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   34840 commits       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Tuesday                  29717 commits       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Wednesday                27835 commits       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Thursday                 18785 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Friday                   20932 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 7245 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Sunday                   7549 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Monday                   34883 commits       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Tuesday                  29764 commits       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Wednesday                27870 commits       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Thursday                 18814 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Friday                   20949 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 7247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Sunday                   7550 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
@@ -118,43 +118,43 @@ Sunday                   7549 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Other                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-JSON                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Git Config               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+YAML                     1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Other                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Markdown                 1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Git Config               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        █████████████░░░░░░░░░░░░   52.03 % 
-OpenCode                 3 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.74 % 
-Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+VS Code                  5 hrs 48 mins       ███████████████░░░░░░░░░░   60.07 % 
+OpenCode                 3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.20 % 
+Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Mac                      7 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 55 mins (88.64%)
+⏱ AI Coding Time: 7 hrs 6 mins (73.44%)
 
-✍️ 5,521 lines written by AI, 75 lines written by hand (98.66% AI-written)
+✍️ 5,614 lines written by AI, 99 lines written by hand (98.27% AI-written)
 
-🔤 40,993,572 Input Tokens, 178,863 Output Tokens
+🔤 42,274,541 Input Tokens, 188,262 Output Tokens
 
-💵 $130.31 Estimated AI Cost This Week
+💵 $130.73 Estimated AI Cost This Week
 
-🧠 81 AI Sessions, 160 AI Prompts
+🧠 83 AI Sessions, 165 AI Prompts
 
-Opencode-Cli             4,809 lines         █████████████████████████   98.50 % 
-Deepseek                 70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Sonnet                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Opencode-Cli             4,809 lines         ████████████████████████░   96.72 % 
+Sonnet                   93 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Deepseek                 70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.66% of written lines came from AI
-📄 Detailed Prompter — average 911 characters per prompt
+🤖 AI-Driven — 98.27% of written lines came from AI
+📄 Detailed Prompter — average 890 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.62% of changed lines were hand-edited
+🚀 High AI Trust — 4.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -170,7 +170,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:20:29 UTC
+ Last Updated on 13/08/2026 19:10:41 UTC
 <!--END_SECTION:waka-->
 
 ---
