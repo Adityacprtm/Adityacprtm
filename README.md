@@ -75,15 +75,15 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 696.3 kB Used in GitHub's Storage 
+> 📦 696.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,027 Contributions in the Year 2026
  > 
@@ -93,71 +93,6 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                36043 commits       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-🌆 Daytime                82459 commits       ██████████████░░░░░░░░░░░   56.02 % 
-🌃 Evening                23796 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-🌙 Night                  4903 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   34922 commits       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Tuesday                  29797 commits       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Wednesday                27898 commits       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Thursday                 18825 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Friday                   20961 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Saturday                 7248 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Sunday                   7550 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-YAML                     3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Markdown                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Git Config               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 30 mins       ██████████████░░░░░░░░░░░   57.33 % 
-OpenCode                 4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.96 % 
-Claude Code              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-
-💻 Operating System: 
-Mac                      13 hrs 6 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 9 hrs 1 min (68.89%)
-
-✍️ 6,142 lines written by AI, 297 lines written by hand (95.39% AI-written)
-
-🔤 71,202,785 Input Tokens, 312,125 Output Tokens
-
-💵 $166.17 Estimated AI Cost This Week
-
-🧠 83 AI Sessions, 184 AI Prompts
-
-Opencode-Cli             4,847 lines         ███████████████████████░░   93.95 % 
-Opus                     219 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Sonnet                   93 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.39% of written lines came from AI
-📄 Detailed Prompter — average 880 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 8.03% of changed lines were hand-edited
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -171,7 +106,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 19:20:21 UTC
+ Last Updated on 15/08/2026 18:41:09 UTC
 <!--END_SECTION:waka-->
 
 ---
