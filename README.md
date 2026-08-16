@@ -75,15 +75,15 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 696.4 kB Used in GitHub's Storage 
+> 📦 696.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,027 Contributions in the Year 2026
  > 
@@ -93,6 +93,71 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                36051 commits       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+🌆 Daytime                82485 commits       ██████████████░░░░░░░░░░░   56.02 % 
+🌃 Evening                23797 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+🌙 Night                  4903 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   34930 commits       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Tuesday                  29804 commits       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Wednesday                27906 commits       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Thursday                 18832 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Friday                   20966 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 7248 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Sunday                   7550 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Other                    3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Markdown                 2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Git Config               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 20 mins       ██████████████░░░░░░░░░░░   55.20 % 
+OpenCode                 4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
+Claude Code              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+
+💻 Operating System: 
+Mac                      13 hrs 18 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 14 mins (69.47%)
+
+✍️ 6,725 lines written by AI, 259 lines written by hand (96.29% AI-written)
+
+🔤 73,050,682 Input Tokens, 350,155 Output Tokens
+
+💵 $166.91 Estimated AI Cost This Week
+
+🧠 84 AI Sessions, 188 AI Prompts
+
+Opencode-Cli             4,847 lines         █████████████████████░░░░   85.08 % 
+Sonnet                   631 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Opus                     219 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.29% of written lines came from AI
+📄 Detailed Prompter — average 943 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 7.03% of changed lines were hand-edited
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -106,7 +171,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:41:09 UTC
+ Last Updated on 16/08/2026 18:39:16 UTC
 <!--END_SECTION:waka-->
 
 ---
