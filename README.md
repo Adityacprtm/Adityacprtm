@@ -75,9 +75,9 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.68%20million%20lines%20of%20code-blue?style=flat)
 
@@ -118,44 +118,45 @@ Sunday                   7550 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Other                    3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Markdown                 2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Git Config               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+YAML                     3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Other                    3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Markdown                 2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Git Config               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 20 mins       ██████████████░░░░░░░░░░░   55.20 % 
-OpenCode                 4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
-Claude Code              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+VS Code                  7 hrs 20 mins       ██████████████░░░░░░░░░░░   54.74 % 
+OpenCode                 4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
+Claude Code              1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 
 💻 Operating System: 
-Mac                      13 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 14 mins (69.47%)
+⏱ AI Coding Time: 9 hrs 25 mins (70.26%)
 
-✍️ 6,725 lines written by AI, 259 lines written by hand (96.29% AI-written)
+✍️ 9,775 lines written by AI, 259 lines written by hand (97.42% AI-written)
 
-🔤 73,050,682 Input Tokens, 350,155 Output Tokens
+🔤 73,133,984 Input Tokens, 390,383 Output Tokens
 
-💵 $166.91 Estimated AI Cost This Week
+💵 $169.24 Estimated AI Cost This Week
 
-🧠 84 AI Sessions, 188 AI Prompts
+🧠 86 AI Sessions, 198 AI Prompts
 
-Opencode-Cli             4,847 lines         █████████████████████░░░░   85.08 % 
-Sonnet                   631 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Opus                     219 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Opencode-Cli             4,833 lines         ██████████████░░░░░░░░░░░   55.16 % 
+Sonnet                   3,709 lines         ███████████░░░░░░░░░░░░░░   42.34 % 
+Opus                     219 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.29% of written lines came from AI
-📄 Detailed Prompter — average 943 characters per prompt
+🤖 AI-Driven — 97.42% of written lines came from AI
+📄 Detailed Prompter — average 1,029 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.03% of changed lines were hand-edited
+🚀 High AI Trust — 4.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -171,7 +172,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:39:16 UTC
+ Last Updated on 17/08/2026 19:32:56 UTC
 <!--END_SECTION:waka-->
 
 ---
