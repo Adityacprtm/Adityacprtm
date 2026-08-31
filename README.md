@@ -79,7 +79,7 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,87 +93,20 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                36533 commits       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-🌆 Daytime                83557 commits       ██████████████░░░░░░░░░░░   56.10 % 
-🌃 Evening                23911 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-🌙 Night                  4941 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   35347 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Tuesday                  30262 commits       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Wednesday                28343 commits       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Thursday                 19010 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Friday                   21158 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 7257 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Sunday                   7565 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 8 hrs 1 min         ████████████░░░░░░░░░░░░░   48.21 % 
-Other                    2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-JavaScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.45 % 
-Claude Code              5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.01 % 
-OpenCode                 3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-💻 Operating System: 
-Mac                      16 hrs 37 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 17 mins (85.93%)
-
-✍️ 5,142 lines written by AI, 2,357 lines written by hand (68.57% AI-written)
-
-🔤 7,900,592 Input Tokens, 945,974 Output Tokens
-
-💵 $408.00 Estimated AI Cost This Week
-
-🧠 52 AI Sessions, 194 AI Prompts
-
-Hy                       1,944 lines         █████████░░░░░░░░░░░░░░░░   37.86 % 
-Opus                     1,045 lines         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Opencode-Cli             972 lines           █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Deepseek                 829 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Sonnet                   342 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 68.57% of written lines came from AI
-📚 Verbose Prompter — average 3,880 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 34.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 Dockerfile               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 ```
 
 
 
 
- Last Updated on 30/08/2026 20:52:47 UTC
+ Last Updated on 31/08/2026 23:11:21 UTC
 <!--END_SECTION:waka-->
 
 ---
