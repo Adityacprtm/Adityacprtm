@@ -75,9 +75,9 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C494%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C495%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -93,73 +93,6 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10222 commits       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-🌆 Daytime                10755 commits       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-🌃 Evening                15745 commits       ██████████░░░░░░░░░░░░░░░   39.08 % 
-🌙 Night                  3566 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   4520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Tuesday                  4021 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Wednesday                7027 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Thursday                 5460 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Friday                   6101 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Saturday                 5921 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Sunday                   7238 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 6 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.79 % 
-YAML                     4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-Other                    2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
-OpenCode                 4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-Opencode Cli             3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Claude Code              2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-
-💻 Operating System: 
-Mac                      16 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 37 mins (80.41%)
-
-✍️ 3,734 lines written by AI, 135 lines written by hand (96.51% AI-written)
-
-🔤 8,220,406 Input Tokens, 1,295,257 Output Tokens
-
-💵 $565.51 Estimated AI Cost This Week
-
-🧠 21 AI Sessions, 123 AI Prompts
-
-Tencent Hy               1,487 lines         ██████████░░░░░░░░░░░░░░░   40.18 % 
-Glm                      1,203 lines         ████████░░░░░░░░░░░░░░░░░   32.50 % 
-Spark                    823 lines           ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Opus                     67 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Mimo                     56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.51% of written lines came from AI
-📄 Detailed Prompter — average 997 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 10.45% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -173,7 +106,7 @@ Dockerfile               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 19:57:06 UTC
+ Last Updated on 09/09/2026 19:47:54 UTC
 <!--END_SECTION:waka-->
 
 ---
