@@ -118,46 +118,44 @@ Sunday                   7354 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 12 mins       ██████████████░░░░░░░░░░░   56.46 % 
-YAML                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-SQL                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Markdown                 5 hrs 59 mins       █████████████░░░░░░░░░░░░   51.49 % 
+YAML                     2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+SQL                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 23 mins       ████████████████░░░░░░░░░   64.49 % 
-OpenCode                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-VS Code                  2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Opencode Cli             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Claude Code              9 hrs 23 mins       ████████████████████░░░░░   80.56 % 
+VS Code                  2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      14 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 45 mins (87.65%)
+⏱ AI Coding Time: 10 hrs 1 min (85.99%)
 
-✍️ 7,544 lines written by AI, 154 lines written by hand (98.0% AI-written)
+✍️ 5,520 lines written by AI, 154 lines written by hand (97.29% AI-written)
 
-🔤 7,542,121 Input Tokens, 1,221,285 Output Tokens
+🔤 3,780,362 Input Tokens, 805,352 Output Tokens
 
-💵 $421.77 Estimated AI Cost This Week
+💵 $75.46 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 155 AI Prompts
+🧠 28 AI Sessions, 135 AI Prompts
 
-Sonnet                   3,153 lines         ██████████░░░░░░░░░░░░░░░   40.30 % 
-Opus                     2,662 lines         █████████░░░░░░░░░░░░░░░░   34.02 % 
-Glm                      1,160 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Spark                    823 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Opencode-Cli             22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Sonnet                   3,153 lines         █████████████░░░░░░░░░░░░   53.98 % 
+Opus                     2,662 lines         ███████████░░░░░░░░░░░░░░   45.57 % 
+Opencode-Cli             22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Tencent Hy               4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.0% of written lines came from AI
-📄 Detailed Prompter — average 821 characters per prompt
+🤖 AI-Driven — 97.29% of written lines came from AI
+📄 Detailed Prompter — average 881 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.38% of changed lines were hand-edited
+🚀 High AI Trust — 8.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -173,7 +171,7 @@ Dockerfile               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 19:22:36 UTC
+ Last Updated on 14/09/2026 20:55:20 UTC
 <!--END_SECTION:waka-->
 
 ---
