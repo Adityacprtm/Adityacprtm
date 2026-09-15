@@ -75,15 +75,15 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C501%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C502%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 699.7 kB Used in GitHub's Storage 
+> 📦 699.8 kB Used in GitHub's Storage 
  > 
 > 🏆 827 Contributions in the Year 2026
  > 
@@ -118,44 +118,45 @@ Sunday                   7354 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 59 mins       █████████████░░░░░░░░░░░░   51.49 % 
-YAML                     2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-SQL                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Markdown                 5 hrs 6 mins        ███████████████░░░░░░░░░░   58.38 % 
+YAML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+SQL                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 23 mins       ████████████████████░░░░░   80.56 % 
-VS Code                  2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              7 hrs 28 mins       █████████████████████░░░░   85.47 % 
+VS Code                  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      11 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (85.99%)
+⏱ AI Coding Time: 7 hrs 47 mins (89.04%)
 
-✍️ 5,520 lines written by AI, 154 lines written by hand (97.29% AI-written)
+✍️ 6,743 lines written by AI, 164 lines written by hand (97.63% AI-written)
 
-🔤 3,780,362 Input Tokens, 805,352 Output Tokens
+🔤 3,204,327 Input Tokens, 717,782 Output Tokens
 
-💵 $75.46 Estimated AI Cost This Week
+💵 $61.32 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 135 AI Prompts
+🧠 29 AI Sessions, 112 AI Prompts
 
-Sonnet                   3,153 lines         █████████████░░░░░░░░░░░░   53.98 % 
-Opus                     2,662 lines         ███████████░░░░░░░░░░░░░░   45.57 % 
-Opencode-Cli             22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Tencent Hy               4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Sonnet                   4,542 lines         ████████████████░░░░░░░░░   63.41 % 
+Opus                     2,595 lines         █████████░░░░░░░░░░░░░░░░   36.23 % 
+Opencode-Cli             22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Tencent Hy               4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.29% of written lines came from AI
-📄 Detailed Prompter — average 881 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 8.3% of changed lines were hand-edited
+🤖 AI-Driven — 97.63% of written lines came from AI
+📚 Verbose Prompter — average 1,550 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -171,7 +172,7 @@ Dockerfile               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 20:55:20 UTC
+ Last Updated on 15/09/2026 20:13:26 UTC
 <!--END_SECTION:waka-->
 
 ---
