@@ -75,15 +75,15 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C502%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C504%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 699.8 kB Used in GitHub's Storage 
+> 📦 699.9 kB Used in GitHub's Storage 
  > 
 > 🏆 827 Contributions in the Year 2026
  > 
@@ -118,45 +118,45 @@ Sunday                   7354 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 6 mins        ███████████████░░░░░░░░░░   58.38 % 
-YAML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-SQL                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Markdown                 5 hrs 11 mins       ███████████████░░░░░░░░░░   59.78 % 
+YAML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+SQL                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 28 mins       █████████████████████░░░░   85.47 % 
-VS Code                  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Claude Code              7 hrs 13 mins       █████████████████████░░░░   83.19 % 
+VS Code                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
 Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      8 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 47 mins (89.04%)
+⏱ AI Coding Time: 7 hrs 34 mins (87.07%)
 
-✍️ 6,743 lines written by AI, 164 lines written by hand (97.63% AI-written)
+✍️ 6,568 lines written by AI, 167 lines written by hand (97.52% AI-written)
 
-🔤 3,204,327 Input Tokens, 717,782 Output Tokens
+🔤 3,013,642 Input Tokens, 760,998 Output Tokens
 
-💵 $61.32 Estimated AI Cost This Week
+💵 $50.85 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 112 AI Prompts
+🧠 26 AI Sessions, 113 AI Prompts
 
-Sonnet                   4,542 lines         ████████████████░░░░░░░░░   63.41 % 
-Opus                     2,595 lines         █████████░░░░░░░░░░░░░░░░   36.23 % 
-Opencode-Cli             22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Sonnet                   6,778 lines         ████████████████████████░   97.08 % 
+Opus                     178 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Opencode-Cli             22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Tencent Hy               4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.63% of written lines came from AI
-📚 Verbose Prompter — average 1,550 characters per prompt
+🤖 AI-Driven — 97.52% of written lines came from AI
+📄 Detailed Prompter — average 1,460 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.32% of changed lines were hand-edited
+🚀 High AI Trust — 6.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +172,7 @@ Dockerfile               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 20:13:26 UTC
+ Last Updated on 16/09/2026 20:04:20 UTC
 <!--END_SECTION:waka-->
 
 ---
