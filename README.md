@@ -79,11 +79,11 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 700.2 kB Used in GitHub's Storage 
+> 📦 700.4 kB Used in GitHub's Storage 
  > 
 > 🏆 827 Contributions in the Year 2026
  > 
@@ -93,6 +93,69 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10604 commits       ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+🌆 Daytime                11178 commits       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌃 Evening                16263 commits       ██████████░░░░░░░░░░░░░░░   38.97 % 
+🌙 Night                  3684 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   4678 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Tuesday                  4213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Wednesday                7323 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Thursday                 5630 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Friday                   6347 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Saturday                 6065 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Sunday                   7473 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 3 hrs 45 mins       █████████████░░░░░░░░░░░░   50.79 % 
+HCL                      1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Other                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+
+🔥 Editors: 
+Claude Code              5 hrs 37 mins       ███████████████████░░░░░░   76.09 % 
+VS Code                  1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+
+💻 Operating System: 
+Mac                      7 hrs 23 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 29 mins (87.68%)
+
+✍️ 5,390 lines written by AI, 65 lines written by hand (98.81% AI-written)
+
+🔤 2,465,528 Input Tokens, 525,836 Output Tokens
+
+💵 $40.00 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 109 AI Prompts
+
+Sonnet                   5,490 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.81% of written lines came from AI
+📚 Verbose Prompter — average 1,521 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.21% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,7 +169,7 @@ Dockerfile               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 19:21:27 UTC
+ Last Updated on 20/09/2026 19:25:29 UTC
 <!--END_SECTION:waka-->
 
 ---
