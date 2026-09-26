@@ -75,9 +75,9 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C514%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C520%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -93,72 +93,6 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8472 commits        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-🌆 Daytime                8968 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-🌃 Evening                12947 commits       ██████████░░░░░░░░░░░░░░░   38.87 % 
-🌙 Night                  2921 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   3775 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Tuesday                  3147 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Wednesday                5525 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Thursday                 4649 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Friday                   4857 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Saturday                 5155 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Sunday                   6200 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.14 % 
-Other                    2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-JSON                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 14 mins       ██████████████░░░░░░░░░░░   57.42 % 
-Claude Code              3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.71 % 
-Opencode Cli             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-
-💻 Operating System: 
-Mac                      9 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 12 mins (89.87%)
-
-✍️ 7,267 lines written by AI, 269 lines written by hand (96.43% AI-written)
-
-🔤 3,036,053 Input Tokens, 942,655 Output Tokens
-
-💵 $346.37 Estimated AI Cost This Week
-
-🧠 28 AI Sessions, 96 AI Prompts
-
-Deepseek                 5,167 lines         ██████████████████░░░░░░░   70.80 % 
-Opus                     1,851 lines         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Sonnet                   177 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Opencode-Cli             55 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Tencent Hy               48 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.43% of written lines came from AI
-📄 Detailed Prompter — average 1,227 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.04% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -172,7 +106,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 20:28:11 UTC
+ Last Updated on 26/09/2026 19:44:09 UTC
 <!--END_SECTION:waka-->
 
 ---
