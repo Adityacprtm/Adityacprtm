@@ -75,9 +75,9 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C531%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C531%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -118,45 +118,45 @@ Sunday                   6676 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.75 % 
-CSV                      3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Python                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Markdown                 3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
+CSV                      3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Python                   1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Terraform                55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 58 mins      ███████████████████████░░   90.52 % 
-Claude Code              1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Opencode Cli             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+VS Code                  9 hrs 21 mins       █████████████████████░░░░   83.88 % 
+Claude Code              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Opencode Cli             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Mac                      18 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 36 mins (77.91%)
+⏱ AI Coding Time: 7 hrs 3 mins (63.28%)
 
-✍️ 14,297 lines written by AI, 272 lines written by hand (98.13% AI-written)
+✍️ 9,244 lines written by AI, 269 lines written by hand (97.17% AI-written)
 
-🔤 8,831,300 Input Tokens, 1,837,608 Output Tokens
+🔤 4,227,284 Input Tokens, 986,623 Output Tokens
 
-💵 $1307.28 Estimated AI Cost This Week
+💵 $603.94 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 203 AI Prompts
+🧠 66 AI Sessions, 120 AI Prompts
 
-Deepseek                 10,432 lines        ██████████████████░░░░░░░   72.37 % 
-Tencent Hy               3,383 lines         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Opus                     324 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Sonnet                   276 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Deepseek                 5,268 lines         ██████████████░░░░░░░░░░░   56.89 % 
+Tencent Hy               3,383 lines         █████████░░░░░░░░░░░░░░░░   36.53 % 
+Opus                     333 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Sonnet                   276 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.13% of written lines came from AI
-📚 Verbose Prompter — average 1,507 characters per prompt
+🤖 AI-Driven — 97.17% of written lines came from AI
+📚 Verbose Prompter — average 2,051 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.42% of changed lines were hand-edited
+🚀 High AI Trust — 4.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +172,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 21:23:04 UTC
+ Last Updated on 03/10/2026 19:50:36 UTC
 <!--END_SECTION:waka-->
 
 ---
