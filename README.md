@@ -75,15 +75,15 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C546%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C548%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.38%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 701.7 kB Used in GitHub's Storage 
+> 📦 701.8 kB Used in GitHub's Storage 
  > 
 > 🏆 975 Contributions in the Year 2026
  > 
@@ -118,45 +118,45 @@ Sunday                   6795 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-YAML                     3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Other                    2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Python                   2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Bash                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Markdown                 6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.87 % 
+YAML                     4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Other                    3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Python                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Bash                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 2 mins       ███████████████░░░░░░░░░░   59.93 % 
-VS Code                  4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Opencode Cli             3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Claude Code              14 hrs 48 mins      ████████████████░░░░░░░░░   65.70 % 
+VS Code                  4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Opencode Cli             3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 
 💻 Operating System: 
-Mac                      20 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      22 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 20 mins (91.27%)
+⏱ AI Coding Time: 20 hrs 22 mins (90.46%)
 
-✍️ 20,147 lines written by AI, 146 lines written by hand (99.28% AI-written)
+✍️ 19,282 lines written by AI, 163 lines written by hand (99.16% AI-written)
 
-🔤 12,431,731 Input Tokens, 2,711,611 Output Tokens
+🔤 12,603,420 Input Tokens, 2,715,688 Output Tokens
 
-💵 $600.29 Estimated AI Cost This Week
+💵 $495.74 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 316 AI Prompts
+🧠 87 AI Sessions, 350 AI Prompts
 
-DeepSeek                 13,634 lines        █████████████████░░░░░░░░   66.60 % 
-Opus                     5,569 lines         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Sonnet                   1,269 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+DeepSeek                 12,366 lines        ████████████████░░░░░░░░░   63.07 % 
+Opus                     5,972 lines         ████████░░░░░░░░░░░░░░░░░   30.46 % 
+Sonnet                   1,269 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.28% of written lines came from AI
-📄 Detailed Prompter — average 1,176 characters per prompt
+🤖 AI-Driven — 99.16% of written lines came from AI
+📄 Detailed Prompter — average 1,121 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.13% of changed lines were hand-edited
+🚀 High AI Trust — 1.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +172,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 20:38:39 UTC
+ Last Updated on 11/10/2026 20:57:56 UTC
 <!--END_SECTION:waka-->
 
 ---
