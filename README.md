@@ -83,9 +83,9 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 
 **🐱 My GitHub Data** 
 
-> 📦 701.8 kB Used in GitHub's Storage 
+> 📦 701.9 kB Used in GitHub's Storage 
  > 
-> 🏆 975 Contributions in the Year 2026
+> 🏆 976 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,45 +118,45 @@ Sunday                   6795 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.87 % 
-YAML                     4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Other                    3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Python                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Bash                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Markdown                 4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+YAML                     4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Other                    3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Python                   2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 48 mins      ████████████████░░░░░░░░░   65.70 % 
-VS Code                  4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Opencode Cli             3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Claude Code              14 hrs 16 mins      ████████████████████░░░░░   78.93 % 
+VS Code                  3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Opencode Cli             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Mac                      22 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 22 mins (90.46%)
+⏱ AI Coding Time: 16 hrs 11 mins (89.55%)
 
-✍️ 19,282 lines written by AI, 163 lines written by hand (99.16% AI-written)
+✍️ 7,311 lines written by AI, 162 lines written by hand (97.83% AI-written)
 
-🔤 12,603,420 Input Tokens, 2,715,688 Output Tokens
+🔤 8,342,681 Input Tokens, 1,781,176 Output Tokens
 
-💵 $495.74 Estimated AI Cost This Week
+💵 $145.32 Estimated AI Cost This Week
 
-🧠 87 AI Sessions, 350 AI Prompts
+🧠 41 AI Sessions, 260 AI Prompts
 
-DeepSeek                 12,366 lines        ████████████████░░░░░░░░░   63.07 % 
-Opus                     5,972 lines         ████████░░░░░░░░░░░░░░░░░   30.46 % 
-Sonnet                   1,269 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Opus                     5,972 lines         ████████████████████░░░░░   78.97 % 
+Sonnet                   1,181 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+DeepSeek                 409 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.16% of written lines came from AI
-📄 Detailed Prompter — average 1,121 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.32% of changed lines were hand-edited
+🤖 AI-Driven — 97.83% of written lines came from AI
+📄 Detailed Prompter — average 1,093 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +172,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 20:57:56 UTC
+ Last Updated on 12/10/2026 23:41:43 UTC
 <!--END_SECTION:waka-->
 
 ---
