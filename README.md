@@ -75,9 +75,9 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
 ![Contribution Snake (Light)](https://raw.githubusercontent.com/Adityacprtm/Adityacprtm/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C548%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C552%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-252%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -118,45 +118,45 @@ Sunday                   6795 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-YAML                     4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Other                    3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Python                   2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+YAML                     5 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Other                    4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+Markdown                 3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Python                   2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 16 mins      ████████████████████░░░░░   78.93 % 
-VS Code                  3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Opencode Cli             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Claude Code              13 hrs 4 mins       ██████████████████░░░░░░░   72.72 % 
+VS Code                  4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Opencode Cli             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 💻 Operating System: 
-Mac                      18 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 11 mins (89.55%)
+⏱ AI Coding Time: 15 hrs 3 mins (83.73%)
 
-✍️ 7,311 lines written by AI, 162 lines written by hand (97.83% AI-written)
+✍️ 6,391 lines written by AI, 363 lines written by hand (94.63% AI-written)
 
-🔤 8,342,681 Input Tokens, 1,781,176 Output Tokens
+🔤 7,461,726 Input Tokens, 1,601,856 Output Tokens
 
-💵 $145.32 Estimated AI Cost This Week
+💵 $135.93 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 260 AI Prompts
+🧠 36 AI Sessions, 229 AI Prompts
 
-Opus                     5,972 lines         ████████████████████░░░░░   78.97 % 
-Sonnet                   1,181 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-DeepSeek                 409 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Opus                     5,844 lines         ██████████████████████░░░   89.60 % 
+DeepSeek                 408 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Sonnet                   270 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.83% of written lines came from AI
-📄 Detailed Prompter — average 1,093 characters per prompt
+🤖 AI-Driven — 94.63% of written lines came from AI
+📄 Detailed Prompter — average 1,045 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.34% of changed lines were hand-edited
+🚀 High AI Trust — 5.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +172,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 23:41:43 UTC
+ Last Updated on 13/10/2026 21:53:12 UTC
 <!--END_SECTION:waka-->
 
 ---
