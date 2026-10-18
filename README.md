@@ -93,68 +93,6 @@ Platform and reliability engineer focused on cloud-native infrastructure, develo
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9802 commits        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-🌆 Daytime                10401 commits       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌃 Evening                14513 commits       ██████████░░░░░░░░░░░░░░░   38.20 % 
-🌙 Night                  3279 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   4331 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Tuesday                  3715 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Wednesday                6449 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Thursday                 5297 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   5714 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Saturday                 5575 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Sunday                   6914 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
-YAML                     3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
-Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-
-🔥 Editors: 
-Claude Code              8 hrs 5 mins        ███████████████████░░░░░░   75.46 % 
-VS Code                  2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-
-💻 Operating System: 
-Mac                      10 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 47 mins (82.02%)
-
-✍️ 4,594 lines written by AI, 382 lines written by hand (92.32% AI-written)
-
-🔤 4,623,284 Input Tokens, 948,980 Output Tokens
-
-💵 $79.17 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 109 AI Prompts
-
-Opus                     4,611 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 92.32% of written lines came from AI
-📄 Detailed Prompter — average 1,303 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 12.07% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -168,7 +106,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 19:12:18 UTC
+ Last Updated on 18/10/2026 19:26:51 UTC
 <!--END_SECTION:waka-->
 
 ---
